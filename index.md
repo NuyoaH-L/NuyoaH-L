@@ -29,11 +29,13 @@
 <h2>关于我</h2>
 <p>年龄: 15岁</p>
 <p>兴趣: 编程,乒乓球,宅,动漫</p>
-<a href="https://nuyoah-l.github.io/">nuyoah-l.github.io</a>
+<center>
+<a href="https://nuyoah-l.github.io/"> <img src="https://image.flaticon.com/icons/png/128/2888/2888338.png" alt="alt text" width="40" height="40"></a>
 <br/>
-<a href="https://blog.nuyoah-l.ml/">blog.nuyoah-l.ml</a>
+<a href="https://blog.nuyoah-l.ml/"> <img src="https://image.flaticon.com/icons/png/128/2717/2717453.png" alt="alt text" width="40" height="40"></a>
 <br/>
-<a href="https://download.nuyoah-l.ml/">download.nuyoah-l.ml</a>
+<a href="https://download.nuyoah-l.ml/"> <img src="https://image.flaticon.com/icons/png/128/25/25407.png" alt="alt text" width="20" height="20"></a>
+</center>
 <hr/>
 <img src="https://camo.githubusercontent.com/fb7b1fe44223e7dc79187207b3f67f5a7cae97f728b4ef6474cb5273a6019209/68747470733a2f2f73706f746966792d6e6f772d706c6179696e672e73617479752e76657263656c2e6170702f6170692f73706f746966792d706c6179696e67" height="70px" width="100%">
 <hr/>
