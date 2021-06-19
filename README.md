@@ -1,3 +1,12 @@
+<script>
+  var _hmt = _hmt || [];
+  (function() {
+    var hm = document.createElement("script");
+    hm.src = "https://hm.baidu.com/hm.js?261ee79106a2f9b38e01afacdd7f3446";
+    var s = document.getElementsByTagName("script")[0]; 
+    s.parentNode.insertBefore(hm, s);
+  })();
+</script>
 <center>
 <a href="https://blog.nuyoah-l.ml/"><img src="https://image.flaticon.com/icons/png/128/1786/1786083.png" alt="alt text" width="20" height="20"></a> &nbsp;&nbsp;   
 <a href="https://github.com/NuyoaH-L"><img src="https://image.flaticon.com/icons/png/128/733/733609.png" alt="alt text" width="20" height="20"></a> &nbsp;&nbsp; 
