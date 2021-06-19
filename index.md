@@ -12,22 +12,29 @@
 <img src="https://github-readme-stats.vercel.app/api?username=NuyoaH-L&show_icons=true&theme=tokyonight" alt="NuyoaH-L's GitHub Stats" />
 <hr/>
 <center>
-<a href="https://blog.nuyoah-l.ml/"><img src="https://image.flaticon.com/icons/png/128/1786/1786083.png" alt="alt text" width="20" height="20"></a> &nbsp;&nbsp;   
-<a href="https://github.com/NuyoaH-L"><img src="https://image.flaticon.com/icons/png/128/733/733609.png" alt="alt text" width="20" height="20"></a> &nbsp;&nbsp; 
-<a href="mailto:nuyoah-l@foxmail.com"><img src="https://image.flaticon.com/icons/png/128/646/646094.png" alt="alt text" width="20" height="20"></a> &nbsp;&nbsp; 
+<a href="https://codeforces.com/profile/NuyoaH-L">
+  <img src="https://image.flaticon.com/icons/png/128/1336/1336494.png" alt="alt text" width="20" height="20">
+</a> &nbsp;&nbsp;  
+<a href="https://vjudge.net/user/NuyoaH_L">
+  <img src="https://image.flaticon.com/icons/png/128/1/1907.png" alt="alt text" width="20" height="20">
+</a> &nbsp;&nbsp; 
+<a href="https://github.com/NuyoaH-L">
+  <img src="https://image.flaticon.com/icons/png/128/733/733609.png" alt="alt text" width="20" height="20">
+</a> &nbsp;&nbsp; 
+<a href="mailto:nuyoah-l@foxmail.com">
+  <img src="https://image.flaticon.com/icons/png/128/646/646094.png" alt="alt text" width="20" height="20">
+</a> &nbsp;&nbsp; 
 </center>
 <hr/>
-
 <h2>关于我</h2>
 <p>年龄: 15岁</p>
 <p>兴趣: 编程,乒乓球,宅,动漫</p>
 <a href="https://nuyoah-l.github.io/">NuyoaH-L</a>
+<br/>
 <a href="https://blog.nuyoah-l.ml/">Jekyll博客</a>
 <br/>
 <a href="https://download.nuyoah-l.ml/">资源分享站</a>
-
 <hr/>
-
 <img src="https://camo.githubusercontent.com/fb7b1fe44223e7dc79187207b3f67f5a7cae97f728b4ef6474cb5273a6019209/68747470733a2f2f73706f746966792d6e6f772d706c6179696e672e73617479752e76657263656c2e6170702f6170692f73706f746966792d706c6179696e67" height="70px" width="100%">
 <hr/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>    
