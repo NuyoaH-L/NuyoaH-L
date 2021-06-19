@@ -20,9 +20,9 @@
 
 <p>年龄 : 15</p>
 <br/>
-<a herf="https://blog.nuyoah-l.ml/">Jekyll博客</a>
+<a href="https://blog.nuyoah-l.ml/">Jekyll博客</a>
 <br/>
-<a herf="https://download.nuyoah-l.ml/">资源分享站</a>
+<a href="https://download.nuyoah-l.ml/">资源分享站</a>
 
 <hr/>
 
