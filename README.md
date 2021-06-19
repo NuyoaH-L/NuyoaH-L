@@ -12,7 +12,7 @@
 <a href="https://blog.nuyoah-l.ml/"><img src="https://image.flaticon.com/icons/png/128/1786/1786083.png" alt="alt text" width="20" height="20"></a> &nbsp;&nbsp;   
 <a href="https://github.com/NuyoaH-L"><img src="https://image.flaticon.com/icons/png/128/733/733609.png" alt="alt text" width="20" height="20"></a> &nbsp;&nbsp; 
 <a href="mailto:nuyoah-l@foxmail.com"><img src="https://image.flaticon.com/icons/png/128/646/646094.png" alt="alt text" width="20" height="20"></a> &nbsp;&nbsp; 
-
+</center>
 <hr/>
 
 <h2>关于我</h2>
