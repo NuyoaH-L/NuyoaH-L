@@ -17,9 +17,9 @@
 <hr/>
 
 <h2>关于我</h2>
-
-<p>年龄 : 15</p>
-<br/>
+<p>年龄: 15岁</p>
+<p>兴趣: 编程,乒乓球,宅,动漫
+<a href="https://nuyoah-l.github.io/">NuyoaH-L</a>
 <a href="https://blog.nuyoah-l.ml/">Jekyll博客</a>
 <br/>
 <a href="https://download.nuyoah-l.ml/">资源分享站</a>
