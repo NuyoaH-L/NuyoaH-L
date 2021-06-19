@@ -18,11 +18,11 @@
 
 <h2>关于我</h2>
 
-年龄 : 15
-
+<p>年龄 : 15</p>
 <br/>
-
-技能 : Javascript , CSS , C/C++ , Java , And Python
+<a herf="https://blog.nuyoah-l.ml/">Jekyll博客</a>
+<br/>
+<a herf="https://download.nuyoah-l.ml/">资源分享站</a>
 
 <hr/>
 
