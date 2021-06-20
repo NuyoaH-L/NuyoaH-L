@@ -1,68 +1,7 @@
 <html>
 
 <head>
-  <title>NuyoaH-L</title>
-  <style type="text/css">
-  * {
-      margin: 0;
-      padding: 0;
-  }
-  body { text-align: center; }
-  #model {
-      width: 800px;
-      margin-left: auto;
-      margin-right: auto;
-      text-align: left;
-  }
-  #header { background: #FF00FF; }
-  #main {
-      position: relative;
-      width: 100%;
-      background: url(images/bg.gif) center repeat-y
-  }
-  #content {
-      margin-left: 25%;
-      margin-right: 20%;
-  }
-  #subplot {
-      width: 20%;
-      position: absolute;
-      right: 0;
-      top: 0;
-  }
-  #serve {
-      width: 25%;
-      position: absolute;
-      left: 0;
-      top: 0;
-  }
-  #footer { 
-      background: #FF99FF; 
-      }
-  </style>
-  <script type="text/javascript" language="javascript">
-      /*解决#subplot #serve 因绝对定位脱离文档流，使#mian包含框的高度就为#content的高
-       度，此脚本会使#mian的高度为三个子栏最高的一栏的高度
-       即#serve的高度；*/
-  window.onload = function(){
-      var main = document.getElementById("main");
-      // 定义即将控制的外框div
-      var left = document.getElementById("subplot").offsetHeight;
-      // 获得内部三栏中ID = subplo的div高度
-      var right = document.getElementById("serve").offsetHeight;
-      // 获得内部三栏中ID = serve的div高度
-      var middle = document.getElementById("content").offsetHeight;
-      // 获得内部三栏中ID = content的div高度
-      var height = 0;
-      // 定义变量来储存最大值
-      height = left - right > 0 ? left : right;
-      // 数值比较
-      height = middle - height > 0 ? middle : height;
-      // 数值比较
-        main.style.height = height + "px";
-      // 设定外框div的高度为 得出的最大高度
-  }
-  </script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
 </head>
 
 <body>
