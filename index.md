@@ -29,6 +29,24 @@
 <hr/>
 <div>
 <center>
+<iframe
+  src="https://music.163.com/outchain/player?type=0&id=5381722575&auto=0&height=32"
+  width=100%
+  height=52
+  frameborder="no"   
+  border="0"
+  marginwidth="0"
+  marginheight="0"
+></iframe>
+<iframe
+  src="https://music.163.com/outchain/player?type=0&id=6782547321&auto=0&height=32"
+  width=100%
+  height=52
+  frameborder="no"
+  border="0"
+  marginwidth="0"
+  marginheight="0"
+></iframe>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=300 height=100 src="//music.163.com/outchain/player?type=0&id=6782547321&auto=0&height=50"></iframe>
 </center>
 </div>
