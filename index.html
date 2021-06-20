@@ -2,6 +2,9 @@
 
 <head>
   <title>NuyoaH-L</title>
+  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1"/>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+  <link rel="alternate" href="/feed.xml" title="RSS" type="application/rss+xml"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
   <meta name="referrer" content="no-referrer-when-downgrade" />
   <link rel="shortcut icon" href="https://blog.nuyoah-l.ml/asserts/img/icon.png">
@@ -15,6 +18,33 @@
       s.parentNode.insertBefore(hm, s);
     })();
   </script>
+  <style>
+    .wrap {
+      transition-property: width,background-size,transform;
+      transition-duration: .3s;
+      transition-timing-function: ease-in-out;
+      min-height: 100%;
+      display: inline-block;
+      background-size: 100% auto;
+      background-position: 0% 0%;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-image: url(https://Mizuno-Ai.wu-kan.cn/pixiv/74559485_p1.webp);
+    }
+    @media (min-aspect-ratio: 2400/1850) {
+      .wrap {
+        background-image: url(https://Mizuno-Ai.wu-kan.cn/pixiv/71932901_p0.webp);
+      }
+    }
+    .sidebar-overlay #sidebar-checkbox:checked ~ .wrap {
+      width: calc(100% - 14rem);
+      background-size: calc(100% - 14rem) auto;
+      transform: translateX(14rem);
+    }
+    .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .wrap {
+      transform: translateX(0);
+    }
+  </style>
 </head>
 
 <body>
