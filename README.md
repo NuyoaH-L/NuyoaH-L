@@ -23,8 +23,6 @@
 <hr/>
 <img src="https://github-readme-stats.vercel.app/api?username=NuyoaH-L&show_icons=true&theme=tokyonight" alt="NuyoaH-L's GitHub Stats" />
 <hr/>
-<img src="https://camo.githubusercontent.com/fb7b1fe44223e7dc79187207b3f67f5a7cae97f728b4ef6474cb5273a6019209/68747470733a2f2f73706f746966792d6e6f772d706c6179696e672e73617479752e76657263656c2e6170702f6170692f73706f746966792d706c6179696e67" height="70px" width="100%">
-<hr/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>    
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>    
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>    
