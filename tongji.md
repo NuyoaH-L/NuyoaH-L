@@ -6,13 +6,12 @@ title: 站点统计
 detail_image: https://raw.githubusercontent.com/NuyoaH-L/Jekyll-Blog/master/theme/planet.png
 ---
 <script src='https://cdn.jsdelivr.net/npm/busuanzi@2.3.0' async="async"></script>
-<script src="https://cdn.jsdelivr.net/npm/fontawesome@4.7.0" async="async"></script>
+<link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css">
 <body>
   <center>
   <div>
-    <i class="fa fa-eye" style="color:#ffffff;"></i><span id="busuanzi_value_page_pv"><i class="fas fa-spinner fa-pulse" style="color:#ffffff;"></i></span>次
-    <i class="fa fa-paw" style="color:#ffffff;"></i><span id="busuanzi_value_site_pv"><i class="fas fa-spinner fa-pulse" style="color:#ffffff;"></i></span>枚
-    <i class="fa fa-group" style="color:#ffffff;"></i><span id="busuanzi_value_site_uv"><i class="fas fa-spinner fa-pulse" style="color:#ffffff;"></i></span>人
+    <i class="fa fa-rss" style="color:#ffffff;"></i><span id="busuanzi_value_site_pv"><i class="fas fa-spinner fa-pulse" ></i></span>枚
+    <i class="fa fa-group" style="color:#ffffff;"></i><span id="busuanzi_value_site_uv"><i class="fas fa-spinner fa-pulse" ></i></span>人
   </div>
     <div>
       累计运行了：
