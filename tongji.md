@@ -10,8 +10,8 @@ detail_image: https://raw.githubusercontent.com/NuyoaH-L/Jekyll-Blog/master/them
 <body>
   <center>
   <div>
-    <li><i class="fa fa-rss" style="color:#ffffff;"></i><span id="busuanzi_value_site_pv"><i class="fa-li fa fa-spinner fa-spin"></i></span>枚</li>
-    <li><i class="fa fa-group" style="color:#ffffff;"></i><span id="busuanzi_value_site_uv"><i class="fa-li fa fa-spinner fa-spin"></i></span>人</li>
+    <stong>本站共<i class="fa fa-rss" style="color:#ffffff;"></i><span id="busuanzi_value_site_pv"><i class="fa-li fa fa-spinner fa-spin"></i></span>次访问</stong>
+    <stong>本站共<i class="fa fa-group" style="color:#ffffff;"></i><span id="busuanzi_value_site_uv"><i class="fa-li fa fa-spinner fa-spin"></i></span>位访客</stong>
   </div>
     <div>
       累计运行了：
