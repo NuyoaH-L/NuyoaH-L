@@ -5,6 +5,8 @@ permalink_name: 主页
 title: NuyoaH-L
 detail_image: https://unsplash.it/1600/900?random
 ---
+<script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
+<div class="dynamic-hide">
 <script>
   var _hmt = _hmt || [];
   (function() {
