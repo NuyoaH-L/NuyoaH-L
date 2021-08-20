@@ -1,9 +1,9 @@
 <footer>
 
   {{ site.title }}/{{ page.permalink_name | replace: "/", "" | replace: " ", "-" }}
-  <br><br>
+  <br>
   <div class="text-center text-black-50" style="padding:1rem">
-      <div>&copy; {{ site.time | date: '%Y' }} {{ rope.owner.name }} 
+      <div>&copy; {{ site.time | date: '%Y' }} {{ page.permalink.name }} 
       <br/>
       Powered by Jekyll</div>
       <span">叙别梦、扬州一觉。</span>
