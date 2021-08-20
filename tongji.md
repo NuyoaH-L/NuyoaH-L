@@ -2,6 +2,7 @@
 layout: page
 permalink: /tongji
 permalink_name: 站点统计
+detail_image: https://raw.githubusercontent.com/NuyoaH-L/Jekyll-Blog/master/theme/planet.png
 title: 站点统计
 ---
 <script src='https://cdn.jsdelivr.net/npm/busuanzi@2.3.0' async="async"></script>
