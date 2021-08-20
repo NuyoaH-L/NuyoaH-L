@@ -17,7 +17,8 @@ highlighter: rouge
 
 header_pages:
   - index.md
-  - preview.md
+  - tongji.md
+  - cpstest.html
 
 # set the size of the text to 'large' or 'small', default is small
 font-size: small
