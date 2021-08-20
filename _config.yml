@@ -16,7 +16,7 @@ sass:
 highlighter: rouge
 
 header_pages:
-  - index.md
+  - index.html
   - tongji.md
   - more.md
 
