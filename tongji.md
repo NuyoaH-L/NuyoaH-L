@@ -14,6 +14,8 @@ detail_image: https://raw.githubusercontent.com/NuyoaH-L/Jekyll-Blog/master/them
     <br>
     <stong><i class="fa fa-group" style="color:#ffffff;"></i>本站共 <span id="busuanzi_value_site_uv"> <i class="fa-li fa fa-spinner fa-spin"></i></span> 位访客</stong>
   </div>
+  </center>
+  <center>
     <div>
       累计运行了：
       <span id="run_time_day">
