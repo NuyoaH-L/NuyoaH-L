@@ -14,6 +14,7 @@ title: 站点统计
     <i class="fa fa-group" style="color:#ffffff;"></i><span id="busuanzi_value_site_uv"><i class="fas fa-spinner fa-pulse" style="color:#ffffff;"></i></span>人
   </div>
     <div>
+      累计运行了：
       <span id="run_time_day">
         <i class="fas fa-spinner fa-pulse"></i>
       </span>天
