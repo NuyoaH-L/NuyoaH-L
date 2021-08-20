@@ -55,7 +55,7 @@ title: 站点统计
       document.getElementById("run_time_hour"),
       document.getElementById("run_time_minute"),
       document.getElementById("run_time_second"),
-      "09/08/2021 12:21:20")
+      "09/08/2021 00:00:00")
       </script>
     </div>
   </center>
