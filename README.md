@@ -1,65 +1,20 @@
-<img src="assets/theme_logo.svg" class="detail_header">
+<div align=center>
+  <img src="https://unsplash.it/1600/900?random" width="100%" height="25%"/>
+  <a href="https://codeforces.com/profile/NuyoaH-L"><img src="https://image.flaticon.com/icons/png/128/1336/1336494.png" alt="alt text" width="20" height="20"></a><span>    </span>
+  <a href="https://vjudge.net/user/NuyoaH_L"><img src="https://image.flaticon.com/icons/png/128/1/1907.png" alt="alt text" width="20" height="20"></a><span>    </span>
+  <a href="https://github.com/NuyoaH-L"><img src="https://image.flaticon.com/icons/png/128/733/733609.png" alt="alt text" width="20" height="20"></a><span>    </span>
+  <a href="mailto:nuyoah-l@outlook.com"><img src="https://image.flaticon.com/icons/png/128/646/646094.png" alt="alt text" width="20" height="20"></a><span>    </span>
+  <a href="https://steamcommunity.com/profiles/76561199089942944/"><img src="https://image.flaticon.com/icons/png/128/2111/2111807.png" alt="alt text" width="20" height="20"></a><span>    </span>
+</div>
+<hr/>
 
-# jekyll-shell-theme
+<h2>关于我：</h2>
 
-**Jekyll Shell Theme** is a light-weight customizable one-column jekyll theme that gives off:
+- 我的身份：一个<img src="https://img.shields.io/badge/-卑微-black">的高中生
 
-- Hackery Vibes
-- Shell Nostalgia
-- Code, code and more code
+<br/>
 
-See an example of this theme in action on the [theme's official site](https://tareqdandachi.github.io/jekyll-shell-theme).
-
-## Installation
-
-### Gem-based method
-
-Add this line to your Jekyll site's `Gemfile`:
-
-```ruby
-gem "jekyll-shell-theme"
-```
-
-And add this line to your Jekyll site's `_config.yml`:
-
-```yaml
-theme: jekyll-shell-theme
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install jekyll-shell-theme
-
-### Remote theme method
-
-Make sure your `Gemfile` contains the `github-pages` gem and **not** the `jekyll-shell-theme` gem.
-
-Then add `remote_theme: "tareqdandachi/jekyll-shell-theme"` to your `_config.yml` file.
-*Remove* any other `theme:` or `remote_theme:` entry.
-
-*For an example of what a config file could look like, look at [example-config.yml](https://github.com/tareqdandachi/jekyll-shell-theme/blob/master/example-config.yml)*
-
-## Usage
-
-TODO: Write usage instructions here. Describe your available layouts, includes, sass and/or assets.
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/tareqdandachi/jekyll-shell-theme. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-## Development
-
-Everyone is welcome to fork this repo and modify the code. To set up your environment to develop this theme, run `bundle install`.
-
-To test the theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using the theme. Add pages, documents, data, etc. like normal to test the theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
-To add a custom directory to your theme-gem, please edit the regexp in `jekyll-shell-theme.gemspec` accordingly.
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+- 学习的编程语言 : <img src="https://img.shields.io/badge/-JavaScript-orange"> , <img src="https://img.shields.io/badge/-CSS3-blue"> , <img src="https://img.shields.io/badge/-C/C++-red"> , <img src="https://img.shields.io/badge/-HTML5-green"> , 以及 <img src="https://img.shields.io/badge/-Python3-yellow">
+<br>
+<h2>Stats：</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=NuyoaH-L&show_icons=true&theme=tokyonight" alt="NuyoaH-L's GitHub Stats" />
