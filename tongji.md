@@ -10,6 +10,6 @@ title: 站点统计-不蒜子提供技术支持
 <div>
   <i class="fa fa-eye" style="color:#ffffff;"></i><span id="busuanzi_value_page_pv"><i class="fas fa-spinner fa-pulse" style="color:#ffffff;"></i></span>次
   <i class="fa fa-paw" style="color:#ffffff;"></i><span id="busuanzi_value_site_pv"><i class="fas fa-spinner fa-pulse" style="color:#ffffff;"></i></span>枚
-  <i class="fa fa-people" style="color:#ffffff;"></i><s<span id="busuanzi_value_site_uv"><i class="fas fa-spinner fa-pulse" style="color:#ffffff;"></i></span>人
+  <i class="fa fa-group" style="color:#ffffff;"></i><s<span id="busuanzi_value_site_uv"><i class="fas fa-spinner fa-pulse" style="color:#ffffff;"></i></span>人
 </div>
 </center>
