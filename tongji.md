@@ -10,22 +10,22 @@ detail_image: https://raw.githubusercontent.com/NuyoaH-L/Jekyll-Blog/master/them
 <body>
   <center>
   <div>
-    <i class="fa fa-rss" style="color:#ffffff;"></i><span id="busuanzi_value_site_pv"><i class="fas fa-spinner fa-pulse" ></i></span>枚
-    <i class="fa fa-group" style="color:#ffffff;"></i><span id="busuanzi_value_site_uv"><i class="fas fa-spinner fa-pulse" ></i></span>人
+    <li><i class="fa fa-rss" style="color:#ffffff;"></i><span id="busuanzi_value_site_pv"><i class="fa-li fa fa-spinner fa-spin"></i></span>枚</li>
+    <li><i class="fa fa-group" style="color:#ffffff;"></i><span id="busuanzi_value_site_uv"><i class="fa-li fa fa-spinner fa-spin"></i></span>人</li>
   </div>
     <div>
       累计运行了：
       <span id="run_time_day">
-        <i class="fas fa-spinner fa-pulse"></i>
+        <i class="fa-li fa fa-spinner fa-spin"></i>
       </span>天
       <span id="run_time_hour">
-        <i class="fas fa-spinner fa-pulse"></i>
+        <i class="fa-li fa fa-spinner fa-spin"></i>
       </span>时
       <span id="run_time_minute">
-        <i class="fas fa-spinner fa-pulse"></i>
+        <i class="fa-li fa fa-spinner fa-spin"></i>
       </span>分
       <span id="run_time_second">
-        <i class="fas fa-spinner fa-pulse"></i>
+        <i class="fa-li fa fa-spinner fa-spin"></i>
       </span>秒
       <script>
          setInterval(function (d,h,m,s,b) {
