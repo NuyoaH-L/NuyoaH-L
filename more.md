@@ -2,7 +2,7 @@
 layout: page
 permalink: /more
 permalink_name: 关于本站
-title: 由一名<br><img src="https://img.shields.io/badge/-卑微-red"><br>高中生所写的简介
+title: 由一名<br><img src="https://img.shields.io/badge/-卑微-red">高中生所写的简介
 detail_image: https://api.ixiaowai.cn/mcapi/mcapi.php
 ---
 其实对于这个站点我并没有没有什么想说的，
