@@ -3,12 +3,12 @@
   url: https://blog.nuyoah-l.ml/
   describe: Stay hungry, Stay foolish.
 
- - name: My Status
-  image: https://status.nuyoah-l.ml/favicon.ico
-  url: https://status.nuyoah-l.ml/
-  describe: My uptime-status page.
+ - name2: My Status
+  image2: https://status.nuyoah-l.ml/favicon.ico
+  url2: https://status.nuyoah-l.ml/
+  describe2: My uptime-status page.
 
- - name: Some Tools
-  image: https://tools.nuyoah-l.ml/favicon.ico
-  url: https://tools.nuyoah-l.ml/
-  describe: There is nothing.
+ - name3: Some Tools
+  image3: https://tools.nuyoah-l.ml/favicon.ico
+  url3: https://tools.nuyoah-l.ml/
+  describe3: There is nothing.
