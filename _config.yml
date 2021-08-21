@@ -1,6 +1,6 @@
 title: "NuyoaH-L"
-tagline: "A jekyll theme that looks like a shell/terminal"
-description: "This is a preview of jekyll-shell-theme."
+tagline: "NuyoaH-L"
+description: "活着努力干，死了无遗憾！"
 github_username: NuyoaH-L
 baseurl: "/"
 url: "https://www.nuyoah-l.ml"
@@ -16,7 +16,7 @@ sass:
 highlighter: rouge
 
 header_pages:
-  - index.html
+  - index.md
   - tongji.md
   - more.md
 
