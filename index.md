@@ -19,6 +19,10 @@ detail_image: https://unsplash.it/1600/900?random
 <div id="hitokoto"><script>hitokoto()</script></div>
 <hr>
 <div class="link-chip">
- <img alt="活着努力干，死了无遗憾！" src="https://blog.nuyoah-l.ml/favicon.ico" class="link-chip-icon">
+ <img alt="活着努力干，死了无遗憾！" src="http://q1.qlogo.cn/g?b=qq&nk=1634297622&s=640" class="link-chip-icon">
  <a title="活着努力干，死了无遗憾！" target="_blank" class="link-chip-title" href="https://blog.nuyoah-l.ml/">My Blog</a>
+</div>
+<div class="link-chip">
+ <img alt="🌚" src="https://status.nuyoah-l.ml/favicon.ico" class="link-chip-icon">
+ <a title="🌚" target="_blank" class="link-chip-title" href="https://status.nuyoah-l.ml/">My Status</a>
 </div>
