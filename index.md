@@ -30,5 +30,5 @@ detail_image: https://unsplash.it/1600/900?random
 </div>
 <div class="link-chip">
  <img alt="There is nothing..." src="https://tools.nuyoah-l.ml/favicon.ico" class="link-chip-icon">
- <a title="There is nothing..." target="_blank" class="link-chip-title" href="https://tools.nuyoah-l.ml">Some Tools</a>
+ <a title="There is nothing..." target="_blank" class="link-chip-title" href="https://tools.nuyoah-l.ml/">Some Tools</a>
 </div>
