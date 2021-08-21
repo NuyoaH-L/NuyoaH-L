@@ -24,11 +24,9 @@ detail_image: https://unsplash.it/1600/900?random
  <a title="{{f.describe}}" target="_blank" class="link-chip-title" href="{{f.url}}">{{f.name}}</a>
 </div>
 {% endfor %}
+{% for s in site.data.status %}
 <div class="link-chip">
- <img alt="{{status.describe}}" src="{{status.image}}" class="link-chip-icon">
- <a title="{{status.describe}}" target="_blank" class="link-chip-title" href="{{status.url}}">{{status.name}}</a>
+ <img alt="{{s.describe}}" src="{{s.image}}" class="link-chip-icon">
+ <a title="{{s.describe}}" target="_blank" class="link-chip-title" href="{{s.url}}">{{s.name}}</a>
 </div>
-<div class="link-chip">
- <img alt="There is nothing..." src="https://tools.nuyoah-l.ml/favicon.ico" class="link-chip-icon">
- <a title="There is nothing..." target="_blank" class="link-chip-title" href="https://tools.nuyoah-l.ml/">Some Tools</a>
-</div>
+{% endfor %}
