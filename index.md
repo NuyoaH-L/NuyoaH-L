@@ -24,5 +24,3 @@ detail_image: https://unsplash.it/1600/900?random
  <a title="{{f.describe}}" target="_blank" class="link-chip-title" href="{{f.url}}">{{f.name}}</a>
 </div>
 {% endfor %}
-
-[返回主页]({{ site.url }})
