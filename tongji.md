@@ -10,9 +10,9 @@ detail_image: https://api.isoyu.com/bing_images.php
 <body>
   <center>
   <div>
-    <stong><i class="fa fa-rss" style="color:#ffffff;"></i>本站共 <span id="busuanzi_value_site_pv"> <i class="fa-li fa fa-spinner fa-spin"></i></span> 次访问</stong>
+    <i class="fa fa-rss" style="color:#ffffff;"></i> <span id="busuanzi_value_site_pv"> <i class="fa-li fa fa-spinner fa-spin"></i></span> <code>次访问</code>
     <br>
-    <stong><i class="fa fa-group" style="color:#ffffff;"></i>本站共 <span id="busuanzi_value_site_uv"> <i class="fa-li fa fa-spinner fa-spin"></i></span> 位访客</stong>
+    <i class="fa fa-group" style="color:#ffffff;"></i> <span id="busuanzi_value_site_uv"> <i class="fa-li fa fa-spinner fa-spin"></i></span> <code>位访客</code>
   </div>
   </center>
   <center>
