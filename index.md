@@ -24,9 +24,9 @@ detail_image: https://unsplash.it/1600/900?random
 </div>
 <div class="link-chip">
  <img alt="🌚" src="https://status.nuyoah-l.ml/favicon.ico" class="link-chip-icon">
- <a title="🌚" target="_blank" class="link-chip-title" href="https://status.nuyoah-l.ml/">Status</a>
+ <a title="🌚" target="_blank" class="link-chip-title" href="https://status.nuyoah-l.ml/">状态</a>
 </div>
 <div class="link-chip">
  <img alt="🌚" src="https://tools.nuyoah-l.ml/favicon.ico" class="link-chip-icon">
- <a title="🌚" target="_blank" class="link-chip-title" href="https://tools.nuyoah-l.ml/">工具箱</a>
+ <a title="🌚" target="_blank" class="link-chip-title" href="https://tools.nuyoah-l.ml/">工具</a>
 </div>
