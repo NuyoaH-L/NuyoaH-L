@@ -18,15 +18,10 @@ detail_image: https://unsplash.it/1600/900?random
 </script>
 <div id="hitokoto"><script>hitokoto()</script></div>
 <hr>
+
 {% for f in site.data.friends %}
 <div class="link-chip">
  <img alt="{{f.describe}}" src="{{f.image}}" class="link-chip-icon">
  <a title="{{f.describe}}" target="_blank" class="link-chip-title" href="{{f.url}}">{{f.name}}</a>
-</div>
-{% endfor %}
-{% for s in site.data.status %}
-<div class="link-chip">
- <img alt="{{s.describe}}" src="{{s.image}}" class="link-chip-icon">
- <a title="{{s.describe}}" target="_blank" class="link-chip-title" href="{{s.url}}">{{s.name}}</a>
 </div>
 {% endfor %}
