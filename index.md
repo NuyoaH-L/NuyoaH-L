@@ -29,6 +29,6 @@ detail_image: https://unsplash.it/1600/900?random
  <a title="{{status.describe}}" target="_blank" class="link-chip-title" href="{{status.url}}">{{status.name}}</a>
 </div>
 <div class="link-chip">
- <img alt="{{f.describe3}}" src="{{f.image3}}" class="link-chip-icon">
- <a title="{{f.describe3}}" target="_blank" class="link-chip-title" href="{{f.url3}}">{{f.name3}}</a>
+ <img alt="There is nothing..." src="https://tools.nuyoah-l.ml/favicon.ico" class="link-chip-icon">
+ <a title="There is nothing..." target="_blank" class="link-chip-title" href="https://tools.nuyoah-l.ml">Some Tools</a>
 </div>
