@@ -22,5 +22,6 @@ detail_image: https://unsplash.it/1600/900?random
 <div class="link-chip">
  <img alt="{{f.describe}}" src="{{f.image}}" class="link-chip-icon">
  <a title="{{f.describe}}" target="_blank" class="link-chip-title" href="{{f.url}}">{{f.name}}</a>
+ <br><span>{{f.describe}}</span>
 </div>
 {% endfor %}
