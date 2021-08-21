@@ -23,4 +23,12 @@ detail_image: https://unsplash.it/1600/900?random
  <img alt="{{f.describe}}" src="{{f.image}}" class="link-chip-icon">
  <a title="{{f.describe}}" target="_blank" class="link-chip-title" href="{{f.url}}">{{f.name}}</a>
 </div>
+<div class="link-chip">
+ <img alt="{{f.describe2}}" src="{{f.image2}}" class="link-chip-icon">
+ <a title="{{f.describe2}}" target="_blank" class="link-chip-title" href="{{f.url2}}">{{f.name2}}</a>
+</div>
+<div class="link-chip">
+ <img alt="{{f.describe3}}" src="{{f.image3}}" class="link-chip-icon">
+ <a title="{{f.describe3}}" target="_blank" class="link-chip-title" href="{{f.url3}}">{{f.name3}}</a>
+</div>
 {% endfor %}
