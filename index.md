@@ -18,3 +18,7 @@ detail_image: https://unsplash.it/1600/900?random
 </script>
 <div id="hitokoto"><script>hitokoto()</script></div>
 <hr>
+<div class="link-chip">
+ <img alt="活着努力干，死了无遗憾！" src="https://blog.nuyoah-l.ml/favicon.ico" class="link-chip-icon">
+ <a title="活着努力干，死了无遗憾！" target="_blank" class="link-chip-title" href="https://blog.nuyoah-l.ml/">My Blog</a>
+</div>
