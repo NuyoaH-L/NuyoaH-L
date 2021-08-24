@@ -14,7 +14,7 @@
 
 <br/>
 
-- 学习的编程语言 : <img src="https://img.shields.io/badge/-JavaScript-orange"> , <img src="https://img.shields.io/badge/-CSS3-blue"> , <img src="https://img.shields.io/badge/-C/C++-red"> , <img src="https://img.shields.io/badge/-HTML5-green"> , 以及 <img src="https://img.shields.io/badge/-Python3-yellow">
+- 学习的编程语言 : <img src="https://img.shields.io/badge/-JavaScript-orange"> , <img src="https://img.shields.io/badge/-CSS3-blue"> , <img src="https://img.shields.io/badge/-C/C++-red"> , <img src="https://img.shields.io/badge/-HTML5-green"> , <img src="https://img.shields.io/badge/-JSON-black"> , 以及 <img src="https://img.shields.io/badge/-Python3-yellow">
 <br>
-<h2>Stats：</h2>
+<h2>统计：</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=NuyoaH-L&show_icons=true&theme=tokyonight" alt="NuyoaH-L's GitHub Stats" />
