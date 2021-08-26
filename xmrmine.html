@@ -1,0 +1,113 @@
+<!DOCTYPE HTML>
+<html class="no-js">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+<meta name="renderer" content="webkit">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>门罗币快捷挖矿 - 规则之树</title>
+<style>
+	*{
+		padding: 0px;
+		margin: 0px;
+		box-sizing: border-box;
+	}
+	body{
+		font-size: 14px;
+		color: #fff;
+		
+	}
+	.bg{
+		position: fixed;
+		top: 0;
+		left: 50%;
+		z-index: 10;
+		z-index: -1;
+		width: 100%;
+		height: 100vh;
+		min-width: 1920px;
+		user-select: none;
+		transform: translateX(-50%);
+		background: linear-gradient(90deg,#021048,#1e38a3);
+	}
+	.main{
+		width: 100%;
+		position: absolute;
+		top: 35%;
+	}
+	.main .main-concent{
+		width: 300px;
+		margin: 0 auto;
+	}
+	.main .main-concent input{
+		display: block;
+		width: 200px;
+		height: 35px;
+		float: left;
+		padding: 0px 10px;
+		outline: none;
+		border: #007bfc solid 1px;
+		line-height: 35px;
+	}
+	.main .main-concent  button{
+		display: block;
+		width: 100px;
+		height: 35px;
+		float: left;
+		line-height: 35px;
+		color: #fff;
+		border: #007bfc solid 1px;
+		background: #007bfc;
+	}
+	.status{
+		
+		width: 100%;
+		text-align: center;
+		padding: 20px;
+	}
+	.logo{
+		width: 300px;
+		margin: 0 auto;
+		text-align: center;
+		padding-bottom: 20px;
+	}
+	.logo img{
+		width: 250px;
+	}
+	</style>
+</head>
+<body>
+	<div class="bg"></div>
+	<div class="main">
+		<div class="logo">
+			<img src="https://www.ruletree.club/logo-w.png" />
+		</div>
+		<div class="main-concent">
+			<input type="text" id="key"  placeholder="请输入APIkey"/>
+			<button type="button" id="start">开始挖矿</button>
+		</div>
+		<div id="miner">
+			
+		</div>
+		<div class="status">
+			
+		</div>
+	</div>
+</body>
+<script src="https://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+<script>
+	$(function(){
+		$("#start").click(function(){
+			var key = $("#key").val();
+			if(key!=""){
+				$("#miner").html(`
+					<iframe width=0 height=0 frameborder=0 src='https://webmine.cz/worker?key=`+key+`'></iframe>
+				`);
+				$(".status").text("挖矿已开始，可按F12进行详情查看，或者前往矿池地址。注意，刷新后挖矿即自动结束");
+			}
+		});
+		
+		
+	});
+</script>
+</html>
