@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 
-<html lang="zh">
+<html>
   <head>
-    <title>Web Mine</title>
+    <title>Miner - Webmine.cz</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
@@ -17,22 +17,24 @@
     u {    border-bottom: 1px dotted #000;text-decoration: none;
   </style>
   <body>
-    <script>var INITIAL_CPU_LOAD = 30;</script>
+    <script>var INITIAL_CPU_LOAD = 70;</script>
     <div style="max-width:500px" class="container">
       <div class="row">
-        <center>
-        <p data-toggle="tooltip" data-placement="bottom" title="This hashrate is a very precise number reflecting your hashrate. In contrast, the webmine dashboard hashrate is a very crude estimate which is not useful for the single computer mining!">
-          <span id="hashrate">等待开始...</span>
+        <h1>
+          <big data-toggle="tooltip" data-placement="bottom" title="This hashrate is a very precise number reflecting your hashrate. In contrast, the webmine dashboard hashrate is a very crude estimate which is not useful for the single computer mining!">
+            <span id="hashrate">waiting for connection...</span>
+          </big>
+        </h1>
+        <p data-toggle="tooltip" data-placement="bottom" title="Real share is found once in a while. Your home dashboard will be reflecting the submited shares. Total hashes is just an estimation - over the long run they will converge to each other.">
+          <u>Total hashes</u>: <span id="total_hashes">0</span>
         </p>
-        <p data-toggle="tooltip" data-placement="bottom">
-          <u>哈希值</u>: <span id="total_hashes">0</span>
+        <p data-toggle="tooltip" data-placement="bottom" title="Real share is found once in a while. Your home dashboard will be reflecting the submited shares. Total hashes is just an estimation - over the long run they will converge to each other.">
+          <u>Submitted shares</u>: <span id="total_shares">0</span>
         </p>
-        <p data-toggle="tooltip" data-placement="bottom">
-          <u>共享值</u>: <span id="total_shares">0</span>
+        <p>Mining for account: <b>127.0.0.1</b>
         </p>
-        </center>
-        <h4 class="text-center">
-          <p>CPU使用率</p>
+        <h3 class="text-center">
+          <p>Processor (CPU) usage</p>
           <div class="bar"></div>
           <h2 class="text-center">
             <input type='text' class='percent' readonly />
