@@ -1,47 +1,41 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Web Miner</title>
+    <title>Miner - Webmine.cz</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.11.1/bootstrap-table.min.css" />
     <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/ui-lightness/jquery-ui.css" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/NuyoaH-L/NuyoaH-L/assets/css/mine.min.scss" />
-    <script src="https://cdn.jsdelivr.net/gh/NuyoaH-L/NuyoaH-L/assets/js/mine.min.js" ></script>
+    <link rel="stylesheet" href="https://www.nuyoah-l.ml/assets/css/mine.scss" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js" ></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" ></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" ></script>
-    <script>var INITIAL_CPU_LOAD = 30;</script>
   </head>
-  <style type="text/css">u {    border-bottom: 1px dotted #000;text-decoration: none;</style>
+    <style type="text/css">u {    border-bottom: 1px dotted #000;text-decoration: none;</style>
   <body>
+    <h3>⬇⬇~ 挖 矿 打 赏 系 统 ~⬇⬇</h3>
+    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="20%" src="https://music.163.com/outchain/player?type=0&id=6883421967&auto=0&height=20"></iframe>
+    <script>var INITIAL_CPU_LOAD = 30;</script>
     <div style="max-width:500px" class="container" >
       <div class="row" >
-        <center>
-          <h3>⬇⬇~ 挖 矿 打 赏 系 统 ~⬇⬇</h3>
-        <center><br>
-        <center>
-          <p>
-            当前算力 : <span id="hashrate">等待响应...</span>
-          </p><br>
-          <p>
-            您已贡献 : <span id="total_hashes">0</span> H
-          </p><br>
-          <p>
-            Total : <span id="total__shares">0</span>
-          </p><br>
-        </center>
-        <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=20% src="//music.163.com/outchain/player?type=0&id=6883421967&auto=0&height=20"></iframe>
-        <center>
-          <h4>
-            <p>CPU 使用阀值</p>
-            <div class="bar" width='100%' height='10%'></div>
-            <!--<h2 class="text-center" >
-              <input type='text' class='percent' />
-            </h2>-->
-          </h4>
-        </center>
+      <center>
+        <p data-toggle="tooltip" data-placement="bottom" title="This hashrate is a very precise number reflecting your hashrate. In contrast, the webmine dashboard hashrate is a very crude estimate which is not useful for the single computer mining!" >
+          <span>当前算力</span>: <span id="hashrate" >waiting for connection...</span>
+        </p>
+        <p data-toggle="tooltip" data-placement="bottom" title="Real share is found once in a while. Your home dashboard will be reflecting the submited shares. Total hashes is just an estimation - over the long run they will converge to each other." >
+          <span>您已贡献</span>: <span id="total_hashes" >0</span>
+        </p>
+        <p data-toggle="tooltip" data-placement="bottom" title="Real share is found once in a while. Your home dashboard will be reflecting the submited shares. Total hashes is just an estimation - over the long run they will converge to each other." >
+          <span>Submitted shares</span>: <span id="total_shares" >0</span>
+        </p>
+        <h3 class="text-center" >
+          <p>CPU 阀值</p>
+          <div class="bar" ></div>
+          <h2 class="text-center" >
+          <input type='text' class='percent' readonly />
+          </h2>
+        </h3>
         <center>
           <span>CPU阀值越高相应对您CPU压力就越大</span><br>
           <span>当然对我而言获取利益的速度也越快</span><br><br><br><br>
@@ -55,8 +49,10 @@
           <span>算力值也在一定程度上反映了您设备的能力</span><br>
           <span>算力值越高相应的您设备CPU的计算能力也越强大</span><br>
         </center>
+      </center>
       </div>
-     </div>
-     <iframe id='miner' width=0 height=0 frameborder=0 src='https://webmine.cz/worker?key=shF1amnFqlMSwHF'></iframe>
-   </body>
+    </div>
+    <iframe id='miner' width=0 height=0 frameborder=0 src='https://webmine.cz/worker?key=shF1amnFqlMSwHF'></iframe>
+    <script src="https://www.nuyoah-l.ml/assets/js/mine.js" ></script>
+  </body>
 </html>
