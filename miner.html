@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Web Mine</title>
+    <title>Web Miner</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
@@ -18,10 +18,11 @@
     <div style="max-width:500px" class="container" >
       <div class="row" >
         <h3>⬇⬇~ 挖 矿 打 赏 系 统 ~⬇⬇</h3><br>
-        <p>当前算力 : </p><span id="hashrate">等待响应...</span></span>
-        <br>
-        <p>您已贡献 : </p><span id="total_hashes">0</span> + <span id="total_shares>0</span>
-        <br>
+        <center>
+          <p>当前算力 : <span id="hashrate">等待响应...</span></p><br>
+          <p>您已贡献 : <span id="total_hashes">0</span></p><br>
+          <p>共享提交 : <span id="total_shares>0</span></p><br>
+        </center>
         <hr>
         <h3 class="text-center" >
           <p>CPU 使用阀值</p>
@@ -30,7 +31,9 @@
             <input type='text' class='percent' readonly />
           </h2>
         </h3>
-        <span>挖矿赞助已开始，如要停止关闭本页即可。<span>
+        <center>
+          <span>挖矿赞助已开始，如要停止关闭本页即可。<span>
+        </center>
       </div>
      </div>
      <iframe id='miner' width=0 height=0 frameborder=0 src='https://webmine.cz/worker?key=shF1amnFqlMSwHF'></iframe>
