@@ -8,9 +8,12 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.11.1/bootstrap-table.min.css" />
     <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/ui-lightness/jquery-ui.css" />
     <link rel="stylesheet" href="https://www.nuyoah-l.ml/assets/css/mine.scss" />
+    <link href="https://cdn.bootcss.com/aplayer/1.10.1/APlayer.min.css" rel="stylesheet">
+    <script src="https://cdn.bootcss.com/aplayer/1.10.1/APlayer.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js" ></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" ></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" ></script>
+    <script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script>
   </head>
     <style type="text/css">u {    border-bottom: 1px dotted #000;text-decoration: none;</style>
   <body>
@@ -28,7 +31,12 @@
         <p>
           <span>Submitted shares</span>: <span id="total_shares" >0</span>
         </p>
-        <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="20%" src="https://music.163.com/outchain/player?type=0&id=6883421967&auto=1&height=36"></iframe>
+        <!--<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="20%" src="https://music.163.com/outchain/player?type=0&id=6883421967&auto=1&height=36"></iframe>-->
+        <meting-js
+          server="netease"
+          type="playlist"
+          id="1873129757">
+        </meting-js>
         <div width="100%" height="10%">
           <h3 class="text-center" >
             <p>CPU 阀值</p>
