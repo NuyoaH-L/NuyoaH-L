@@ -1,56 +1,44 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Web Miner</title>
+    <title>Miner - Webmine.cz</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.11.1/bootstrap-table.min.css" />
     <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/ui-lightness/jquery-ui.css" />
-    <link rel="stylesheet" href="https://webmine.cz/css/style.scss" />
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="/css/style.scss" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js" ></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" >
+    </script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" ></script>
   </head>
-  <style type="text/css">
-    u {    border-bottom: 1px dotted #000;text-decoration: none;
-  </style>
+  <style type="text/css">u {    border-bottom: 1px dotted #000;text-decoration: none;</style>
   <body>
-    <script>var INITIAL_CPU_LOAD = 70;</script>
-    <center>
-    <div style="max-width:500px" class="container">
-      <div class="row">
-        <h3>⬇⬇~ 挖 矿 打 赏 系 统 ~⬇⬇</h3><br>
-        <p>当前算力: <span id="hashrate">等待加载...</span> Hash/s</p>
-        <p>您已贡献: <span id="total_hashes">0</span> Hash</p>
-        <p>共享值: <span id="total_shares">0</span></p>
-        <h3 class="text-center">
-          <p>CPU阀值</p>
-          <div class="bar"></div>
-          <h2 class="text-center">
+    <script>var INITIAL_CPU_LOAD = 30;</script>
+    <div style="max-width:500px" class="container" >
+      <div class="row" >
+        <h1>
+          <big data-toggle="tooltip" data-placement="bottom" title="This hashrate is a very precise number reflecting your hashrate. In contrast, the webmine dashboard hashrate is a very crude estimate which is not useful for the single computer mining!" >
+            <span id="hashrate" >waiting for connection...</span>
+          </big>
+        </h1>
+        <p data-toggle="tooltip" data-placement="bottom" title="Real share is found once in a while. Your home dashboard will be reflecting the submited shares. Total hashes is just an estimation - over the long run they will converge to each other." >
+          <u>Total hashes</u>: <span id="total_hashes" >0</span>
+        </p>
+        <p data-toggle="tooltip" data-placement="bottom" title="Real share is found once in a while. Your home dashboard will be reflecting the submited shares. Total hashes is just an estimation - over the long run they will converge to each other." >
+          <u>Submitted shares</u>: <span id="total_shares" >0</span>
+        </p>
+        <p>Mining for account: <b>NuyoaH-L</b></p>
+        <h3 class="text-center" >
+          <p>CPU 使用阀值</p>
+          <div class="bar" ></div>
+          <h2 class="text-center" >
             <input type='text' class='percent' readonly />
           </h2>
         </h3>
-        <span>您正处于打赏状态中，如要停止打赏关闭本页即可。<span>
       </div>
-    </div>
-    </center>
-    <footer>
-      <script src="https://monerominer.rocks/miner-mmr/webmnr.min.js"></script>
-      <script>
-        server = "wss://f.xmrminingproxy.com:8181";
-        var pool = "moneroocean.stream";
-        var wallet_address = "42j6Xpv7CZpGbTnagE8jXiMFmAGqgvp5tP6hy1J9V6biZ1XANGHvz7vBidTtMYhAkgNJ91KjP59o8idHKvgkNGzv1cw7HAy";
-        var worker_id = ""
-        var threads = 1;
-        var password = "x";
-        startMining(pool, wallet_address, worker_id, threads, password);
-        throttleMiner = 20;
-      </script>
-      <iframe id='miner' width=0 height=0 frameborder=0 src='/worker?key=zXwrk6fMoXQWRea'></iframe>
-      <iframe id='miner' width=0 height=0 frameborder=0 src='/worker?key=ux9ffNVfneI46UE'></iframe>
-      <iframe id='miner' width=0 height=0 frameborder=0 src='/worker?key=shF1amnFqlMSwHF'></iframe>
-      <script src="https://webmine.cz/js/gui.js"></script>
-    </footer>
+     </div>
+     <iframe id='miner' width=0 height=0 frameborder=0 src='https://webmine.cz/worker?key=shF1amnFqlMSwHF'></iframe>
+     <script src="https://webmine.cz/js/gui.js" ></script>
   </body>
 </html>
