@@ -37,7 +37,7 @@ $(function () {
 
     function set_color(percent) {
         var color = 'black';
-        if (percent <= 30) {
+        if (percent <= 50) {
             color = 'green';
         } else if (percent > 50 && percent <= 70) {
             color = 'gold';
