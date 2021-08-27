@@ -31,6 +31,31 @@
         <p>
           <span>贡献提交</span>: <span id="total_shares" >0</span>
         </p>
+        <div id="aplayer"></div>
+        <script>
+          var ap = new APlayer
+            ({
+               element: document.getElementById('player1'),
+               narrow: false,
+               autoplay: false,
+               showlrc: false,
+               listFolded: false,
+               listMaxHeight: 90,
+                 music:[{
+                   title: 'Something Just Like This (Megamix)',
+                   author: 'The Chainsmokers',
+                   url: 'https://xxx.oss-cn-chengdu.aliyuncs.com/AnDyWuMUSICLAND+-+Something+Just+Like+This+%28Megamix%29.mp3',
+                   pic: 'https://xxx.oss-cn-chengdu.aliyuncs.com/offline-471565537.jpg'
+                 },
+                 {
+                    title: '遇见',
+                    author: '孙燕姿',
+                    url: 'http://music.163.com/song/media/outer/url?id=287035.mp3',
+                    pic: 'http://y.gtimg.cn/music/photo_new/T002R300x300M000002ehzTm0TxXC2.jpg'
+                  }]
+              });
+            ap.init();
+         </script>
         <meting-js server="netease" type="playlist" id="1873129757" lrc-type="0" list-olded="false" list-mix-height="35%"></meting-js>
         <!--<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="20%" src="https://music.163.com/outchain/player?type=0&id=6883421967&auto=1&height=36"></iframe>-->
         <div width="100%" height="10%">
