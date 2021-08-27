@@ -39,7 +39,7 @@ $(function () {
         var color = 'black';
         if (percent <= 30) {
             color = 'green';
-        } else if (percent > 30 && percent <= 70) {
+        } else if (percent > 50 && percent <= 70) {
             color = 'gold';
         } else if (percent > 70) {
             color = 'red';
@@ -123,7 +123,7 @@ function refreshHashrate() {
     var reportDelay = Date.now() - lastHashReport;
     var message = "";
     if (reportDelay > 2000) {
-        message = "waiting for connection...";
+        message = "等待响应...";
     } else {
         message = Math.round(slidingHashrate, 1) + " H/s";
     }
