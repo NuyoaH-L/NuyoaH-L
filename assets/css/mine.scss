@@ -1,0 +1,76 @@
+#useful_links img{
+	height: 40px;
+	margin: 5px;
+}
+h4{
+	margin-top: 30px;
+}
+.logo{
+	margin-top: 7px;
+	margin-right: 10px;
+	max-height: 35px;
+}
+.page-header{
+	margin-top: 10px;
+}
+#banner .field-hashrate{
+	font-size: 36px;
+}
+#banner .field-pending_payments{
+	font-size: 21px;
+}
+.hint{
+	font-weight: 100;
+	font-size: smaller;
+}
+.error{
+	color: red;
+}
+.message{
+	color: lightgreen;
+}
+.permission_message{
+	color: darkgreen;
+	margin-bottom: 20px;
+}
+#page{
+	position: relative;
+	top: 50px;
+}
+#mining_results{
+	position: relative;
+	top: 20px;
+}
+.ui-slider-range{
+	background: green;
+}
+.percent{
+	color: green;
+	font-weight: bold;
+	text-align: center;
+	width: 100%;
+	border: none;
+}
+#load_settings{
+	position: relative;
+	top: 20px;
+}
+.errors{
+	color: red;
+}
+.ct-series-a .ct-line{
+	stroke: #1885bc;
+	stroke-width: 2px;
+}
+button[name=forget_permission]:hover{
+	color: #ff5555;
+}
+#cryptonator_prices div{
+	display: inline;
+	border: 0 !important;
+}
+#cryptonator_prices{
+	margin-right: 0;
+	margin-left: auto;
+	max-width: 280px;
+}
