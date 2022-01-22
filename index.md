@@ -19,3 +19,7 @@ detail_image: https://unsplash.it/1600/900?random
  <img alt="🌚" src="https://tools.nuyoah-l.ml/favicon.ico" class="link-chip-icon">
  <a title="🌚" target="_blank" class="link-chip-title" href="https://tools.nuyoah-l.ml/">工具</a>
 </div>
+<div class="link-chip">
+ <img alt="🌚" src="https://timber.oss-cn-chengdu.aliyuncs.com/img/utool_up/QQ%E5%9B%BE%E7%89%8720220111125629.png" class="link-chip-icon">
+ <a title="🌚" target="_blank" class="link-chip-title" href="https://search.nuyoah-l.ml/">搜索</a>
+</div>
