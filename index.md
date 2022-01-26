@@ -23,3 +23,9 @@ detail_image: https://unsplash.it/1600/900?random
  <img alt="🌚" src="https://search.nuyoah-l.ml/favicon.ico" class="link-chip-icon">
  <a title="🌚" target="_blank" class="link-chip-title" href="https://search.nuyoah-l.ml/">搜索</a>
 </div>
+<img alt="🌚" src="https://dev.nuyoah-l.ml/favicon.ico" class="link-chip-icon">
+ <a title="🌚" target="_blank" class="link-chip-title" href="https://dev.nuyoah-l.ml/">手册</a>
+</div>
+<img alt="🌚" src="https://pan.nuyoah-l.ml/favicon.ico" class="link-chip-icon">
+ <a title="🌚" target="_blank" class="link-chip-title" href="https://pan.nuyoah-l.ga/">网盘</a>
+</div>
