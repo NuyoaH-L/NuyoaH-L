@@ -28,6 +28,6 @@ detail_image: https://unsplash.it/1600/900?random
  <a title="🌚" target="_blank" class="link-chip-title" href="https://dev.nuyoah-l.ml/">手册</a>
 </div>
 <div class="link-chip">
-<img alt="🌚" src="https://pan.nuyoah-l.ml/favicon.ico" class="link-chip-icon">
+<img alt="🌚" src="https://pan.nuyoah-l.ga/favicon.ico" class="link-chip-icon">
  <a title="🌚" target="_blank" class="link-chip-title" href="https://pan.nuyoah-l.ga/">网盘</a>
 </div>
