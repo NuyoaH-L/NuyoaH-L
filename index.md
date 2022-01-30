@@ -24,7 +24,7 @@ detail_image: https://unsplash.it/1600/900?random
  <a title="🌚" target="_blank" class="link-chip-title" href="https://search.nuyoah-l.ml/">搜索</a>
 </div>
 <div class="link-chip">
-<img alt="🌚" src="https://dev.nuyoah-l.ml/favicon.ico" class="link-chip-icon">
+<img alt="🌚" src="https://dev.nuyoah-l.ml/gitbook/images/favicon.ico" class="link-chip-icon">
  <a title="🌚" target="_blank" class="link-chip-title" href="https://dev.nuyoah-l.ml/">手册</a>
 </div>
 <div class="link-chip">
