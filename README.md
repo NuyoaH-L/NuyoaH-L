@@ -1,10 +1,5 @@
 <div align=center>
-  <img src="https://api.molure.cn/wp" width="100%" height="25%"/>
-  <a href="https://codeforces.com/profile/NuyoaH-L"><img src="https://image.flaticon.com/icons/png/128/1336/1336494.png" alt="alt text" width="20" height="20"></a><span>    </span>
-  <a href="https://vjudge.net/user/NuyoaH_L"><img src="https://image.flaticon.com/icons/png/128/1/1907.png" alt="alt text" width="20" height="20"></a><span>    </span>
-  <a href="https://github.com/NuyoaH-L"><img src="https://image.flaticon.com/icons/png/128/733/733609.png" alt="alt text" width="20" height="20"></a><span>    </span>
-  <a href="mailto:nuyoah-l@outlook.com"><img src="https://image.flaticon.com/icons/png/128/646/646094.png" alt="alt text" width="20" height="20"></a><span>    </span>
-  <a href="https://steamcommunity.com/profiles/76561199089942944/"><img src="https://image.flaticon.com/icons/png/128/2111/2111807.png" alt="alt text" width="20" height="20"></a><span>    </span>
+  <img src="https://unsplash.it/1600/900?random" width="100%" height="25%"/>
 </div>
 <hr/>
 
