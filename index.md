@@ -12,11 +12,11 @@ detail_image: https://unsplash.it/1600/900?random
  <a title="🌚" target="_blank" class="link-chip-title" href="https://blog.nuyoah-l.ml/">博客</a>
 </div>
 <div class="link-chip">
- <img alt="🌚" src="https://q1.qlogo.cn/g?b=qq&nk=2747518754&s=640" class="link-chip-icon">
+ <img alt="🌚" src="http://8r5.cn/Dn37B" class="link-chip-icon">
  <a title="🌚" target="_blank" class="link-chip-title" href="https://status.nuyoah-l.ga/">状态</a>
 </div>
 <div class="link-chip">
- <img alt="🌚" src="https://q1.qlogo.cn/g?b=qq&nk=352253019&s=640" class="link-chip-icon">
+ <img alt="🌚" src="http://8r5.cn/5Wrj5" class="link-chip-icon">
  <a title="🌚" target="_blank" class="link-chip-title" href="https://tools.nuyoah-l.ga/">工具</a>
 </div>
 <!--
@@ -30,6 +30,6 @@ detail_image: https://unsplash.it/1600/900?random
 </div>
 -->
 <div class="link-chip">
-<img alt="🌚" src="https://q1.qlogo.cn/g?b=qq&nk=1637524813&s=640" class="link-chip-icon">
+<img alt="🌚" src="http://8r5.cn/ptmhs" class="link-chip-icon">
  <a title="🌚" target="_blank" class="link-chip-title" href="https://pan.nuyoah-l.ga/">网盘</a>
 </div>
