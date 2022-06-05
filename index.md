@@ -12,21 +12,23 @@ detail_image: https://unsplash.it/1600/900?random
  <a title="🌚" target="_blank" class="link-chip-title" href="https://blog.nuyoah-l.ml/">博客</a>
 </div>
 <div class="link-chip">
- <img alt="🌚" src="https://status.nuyoah-l.ml/favicon.ico" class="link-chip-icon">
- <a title="🌚" target="_blank" class="link-chip-title" href="https://status.nuyoah-l.ml/">状态</a>
+ <img alt="🌚" src="https://status.nuyoah-l.ga/favicon.ico" class="link-chip-icon">
+ <a title="🌚" target="_blank" class="link-chip-title" href="https://status.nuyoah-l.ga/">状态</a>
 </div>
 <div class="link-chip">
- <img alt="🌚" src="https://tools.nuyoah-l.ml/favicon.ico" class="link-chip-icon">
- <a title="🌚" target="_blank" class="link-chip-title" href="https://tools.nuyoah-l.ml/">工具</a>
+ <img alt="🌚" src="https://tools.nuyoah-l.ga/favicon.ico" class="link-chip-icon">
+ <a title="🌚" target="_blank" class="link-chip-title" href="https://tools.nuyoah-l.ga/">工具</a>
 </div>
+<!--
 <div class="link-chip">
- <img alt="🌚" src="https://search.nuyoah-l.ml/favicon.ico" class="link-chip-icon">
- <a title="🌚" target="_blank" class="link-chip-title" href="https://search.nuyoah-l.ml/">搜索</a>
+ <img alt="🌚" src="https://search.nuyoah-l.ga/favicon.ico" class="link-chip-icon">
+ <a title="🌚" target="_blank" class="link-chip-title" href="https://search.nuyoah-l.ga/">搜索</a>
 </div>
 <div class="link-chip">
 <img alt="🌚" src="https://dev.nuyoah-l.ml/gitbook/images/favicon.ico" class="link-chip-icon">
  <a title="🌚" target="_blank" class="link-chip-title" href="https://dev.nuyoah-l.ml/">手册</a>
 </div>
+-->
 <div class="link-chip">
 <img alt="🌚" src="https://pan.nuyoah-l.ga/favicon.ico" class="link-chip-icon">
  <a title="🌚" target="_blank" class="link-chip-title" href="https://pan.nuyoah-l.ga/">网盘</a>
