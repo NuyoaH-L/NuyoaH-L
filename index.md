@@ -8,7 +8,7 @@ detail_image: https://unsplash.it/1600/900?random
 <div id="hitokoto"><script>hitokoto()</script></div>
 <hr>
 <div class="link-chip">
- <img alt="🌚" src="https://q1.qlogo.cn/g?b=qq&nk=1634297622&s=640" class="link-chip-icon">
+ <img alt="🌚" src="http://8r5.cn/n66zC" class="link-chip-icon">
  <a title="🌚" target="_blank" class="link-chip-title" href="https://blog.nuyoah-l.ml/">博客</a>
 </div>
 <div class="link-chip">
