@@ -9,7 +9,7 @@ detail_image: https://unsplash.it/1600/900?random
 <hr>
 <div class="link-chip">
  <img alt="🌚" src="http://api.molure.cn/sjtx/api.php?lx=c1" class="link-chip-icon">
- <a title="🌚" target="_blank" class="link-chip-title" href="https://blog.nuyoah-l.ml/">博客</a>
+ <a title="🌚" target="_blank" class="link-chip-title" href="https://blog.nuyoah-l.ga/">博客</a>
 </div>
 <div class="link-chip">
  <img alt="🌚" src="http://api.molure.cn/sjtx/api.php?lx=c1" class="link-chip-icon">
