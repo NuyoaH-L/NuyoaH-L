@@ -9,26 +9,26 @@ detail_image: https://unsplash.it/1600/900?random
  <div id="hitokoto"><script>hitokoto()</script></div>
 </center>
 <hr>
-				<div id="player"></div>
-				<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js">
-				</script>
-				<script type="text/javascript">
-					var ap = new APlayer({
-						container: document.getElementById('player'),
-						lrcType: 3,
-						autoplay: true,
-						audio: [{
-							name: '七里香',
-							artist: '周杰伦 (Jay Chou)',
-							url: 'https://www.qqmc.com/up/kwlink.php?id=94237',
-							cover: 'https://cdn.keeprising.ga/img/icon.jpg',
-							lrcType: 3,
-							lrc: './assets/lrc/qilixiang.lrc',
-							theme: '#eeeeee'
-						}]
-					});
-					ap.init();
-				</script>
+<div id="player"></div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js">
+</script>
+<script type="text/javascript">
+	var ap = new APlayer({
+		container: document.getElementById('player'),
+		lrcType: 3,
+		autoplay: true,
+		audio: [{
+			name: '七里香',
+			artist: '周杰伦 (Jay Chou)',
+			url: 'https://www.qqmc.com/up/kwlink.php?id=94237',
+			cover: 'https://cdn.keeprising.ga/img/icon.jpg',
+			lrcType: 3,
+			lrc: './assets/lrc/qilixiang.lrc',
+			theme: '#eeeeee'
+		}]
+	});
+	ap.init();
+</script>
 <div id="player"  class="aplayer"></div>
 <script type="text/javascript">
 const ap = new APlayer({
