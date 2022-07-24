@@ -16,13 +16,13 @@ detail_image: https://unsplash.it/1600/900?random
 <script type="text/javascript">
 const ap = new APlayer({
     container: document.getElementById('player'),
-    fixed: true,
+    fixed: false,
     autoplay: true, //自动播放
     audio: [{
-        name: 'The Song Of Doremi',
-        artist: '林澜叶',
+        name: 'Eye Water',
+        artist: 'itsuwari',
         url: 'https://music.163.com/song/media/outer/url?id=1351784375.mp3',
-        cover: '.ico',
+        cover: '',
     }
 	]
 });
