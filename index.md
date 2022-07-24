@@ -9,9 +9,33 @@ detail_image: https://unsplash.it/1600/900?random
  <div id="hitokoto"><script>hitokoto()</script></div>
 </center>
 <hr>
-<center>
+<!--<center>
  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1425371292&auto=1&height=66"></iframe>
-</center>
+</center>-->
+<!-- 为博客底部添加音乐组件 -->
+<div id="player"  class="aplayer"></div>
+<script type="text/javascript">
+const ap = new APlayer({
+    container: document.getElementById('player'),
+    fixed: true,
+    autoplay: true, //自动播放
+    audio: [{
+        name: 'The Song Of Doremi',
+        artist: '林澜叶',
+        url: '.mp3',
+        cover: '.ico',
+    },
+	{
+ 		name: '阳光甚好，微风不噪',
+        artist: '何石',
+        url: '.mp3',
+        cover: '.ico',
+	}
+
+	]
+});
+ap.init();
+</script>
 <br>
 <center>
 <div class="link-chip">
