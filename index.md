@@ -20,9 +20,6 @@ const ap = new APlayer({
         artist: 'itsuwari',
         url: 'https://music.163.com/song/media/outer/url?id=1351784375.mp3',
         cover: 'https://p1.music.126.net/XSOnbQelZb4qtcdhTKPafQ==/109951163924980512.jpg?imageView&thumbnail=360y360&quality=75&tostatic=0',
-	lrcType: 3,
-	lrc: ''
-	theme: '#eeeeee'
     }
 	]
 });
