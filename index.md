@@ -19,10 +19,9 @@ const ap = new APlayer({
     fixed: false,
     autoplay: true, //自动播放
     audio: [{
-        name: 'Eye Water',
-        artist: 'itsuwari',
+        artist: 'Eye Water - itsuwari',
         url: 'https://music.163.com/song/media/outer/url?id=1351784375.mp3',
-        cover: '',
+        cover: 'https://p1.music.126.net/XSOnbQelZb4qtcdhTKPafQ==/109951163924980512.jpg?imageView&thumbnail=360y360&quality=75&tostatic=0',
     }
 	]
 });
