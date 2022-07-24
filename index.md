@@ -30,19 +30,15 @@ ap.init();
 <br>
 <center>
 <div class="link-chip">
- <img alt="🌚" src="https://blog.nuyoah-l.ga/favicon.ico" class="link-chip-icon">
+ <img alt="🌚" src="https://q1.qlogo.cn/g?b=qq&nk=1634297622&s=640" class="link-chip-icon">
  <a title="🌚" target="_blank" class="link-chip-title" href="https://blog.nuyoah-l.ga/">博客</a>
 </div>
 <div class="link-chip">
- <img alt="🌚" src="http://api.molure.cn/sjtx/api.php?lx=c1" class="link-chip-icon">
+ <img alt="🌚" src="https://status.nuyoah-l.ga/favicon.ico" class="link-chip-icon">
  <a title="🌚" target="_blank" class="link-chip-title" href="https://status.nuyoah-l.ga/">状态</a>
 </div>
 <div class="link-chip">
- <img alt="🌚" src="http://api.molure.cn/sjtx/api.php?lx=c1" class="link-chip-icon">
+ <img alt="🌚" src="https://tools.nuyoah-l.ga/favicon.ico" class="link-chip-icon">
  <a title="🌚" target="_blank" class="link-chip-title" href="https://tools.nuyoah-l.ga/">工具</a>
-</div>
-<div class="link-chip">
-<img alt="🌚" src="http://api.molure.cn/sjtx/api.php?lx=c1" class="link-chip-icon">
- <a title="🌚" target="_blank" class="link-chip-title" href="https://pan.nuyoah-l.ga/">网盘</a>
 </div>
 </center>
