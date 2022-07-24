@@ -22,7 +22,7 @@ detail_image: https://unsplash.it/1600/900?random
 			artist: 'itsuwari',
 			url: '[https://www.qqmc.com/up/kwlink.php?id=94237](https://music.163.com/song/media/outer/url?id=1351784375.mp3)',
 			cover: '[https://cdn.keeprising.ga/img/icon.jpg](https://p1.music.126.net/XSOnbQelZb4qtcdhTKPafQ==/109951163924980512.jpg?imageView&thumbnail=360y360&quality=75&tostatic=0)',
-			theme: '#eeeeee'
+			theme: '#000000'
 		}]
 	});
 	ap.init();
