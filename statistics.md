@@ -1,6 +1,6 @@
 ---
-layout: page
-permalink: /tongji
+layout: home
+permalink: /statistics
 permalink_name: 站点统计
 title: 站点统计
 detail_image: https://api.yimian.xyz/img?type=wallpaper
