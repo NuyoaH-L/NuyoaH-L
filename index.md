@@ -10,7 +10,6 @@ detail_image: https://unsplash.it/1600/900?random
 </center>
 <hr>
 <div id="player"></div>
-</script>
 <script type="text/javascript">
 	var ap = new APlayer({
 		container: document.getElementById('player'),
@@ -29,6 +28,7 @@ detail_image: https://unsplash.it/1600/900?random
 	ap.init();
 </script>
 <br>
+<!--
 <center>
 <div class="link-chip">
  <img alt="🌚" src="https://q1.qlogo.cn/g?b=qq&nk=1634297622&s=640" class="link-chip-icon">
@@ -43,3 +43,4 @@ detail_image: https://unsplash.it/1600/900?random
  <a title="🌚" target="_blank" class="link-chip-title" href="https://tools.nuyoah-l.ga/">工具</a>
 </div>
 </center>
+-->
