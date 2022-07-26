@@ -9,8 +9,7 @@ detail_image: https://unsplash.it/1600/900?random
  <div id="hitokoto"><script>hitokoto()</script></div>
 </center>
 <hr>
-<!--
-<div id="player"></div>
+<!--<div id="player"></div>
 <script type="text/javascript">
 	var ap = new APlayer({
 		container: document.getElementById('player'),
@@ -27,12 +26,12 @@ detail_image: https://unsplash.it/1600/900?random
 		}]
 	});
 	ap.init();
-</script>
--->
-<center><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1425371292&auto=1&height=66"></iframe></center>
-<br>
-<!--
+</script>-->
 <center>
+  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="https://music.163.com/outchain/player?type=2&id=1425371292&auto=1&height=66"></iframe>
+</center>
+<br>
+<!--<center>
 <div class="link-chip">
  <img alt="🌚" src="https://q1.qlogo.cn/g?b=qq&nk=1634297622&s=640" class="link-chip-icon">
  <a title="🌚" target="_blank" class="link-chip-title" href="https://blog.nuyoah-l.ga/">博客</a>
@@ -45,5 +44,4 @@ detail_image: https://unsplash.it/1600/900?random
  <img alt="🌚" src="https://tools.nuyoah-l.ga/favicon.ico" class="link-chip-icon">
  <a title="🌚" target="_blank" class="link-chip-title" href="https://tools.nuyoah-l.ga/">工具</a>
 </div>
-</center>
--->
+</center>-->
