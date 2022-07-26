@@ -17,7 +17,7 @@ highlighter: rouge
 
 header_pages:
   - index.md
-  - tongji.md
+  - statistics.md
   - more.md
 
 # set the size of the text to 'large' or 'small', default is small
