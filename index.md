@@ -10,7 +10,6 @@ detail_image: https://unsplash.it/1600/900?random
 </center>
 <hr>
 <div id="player"></div>
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js">
 </script>
 <script type="text/javascript">
 	var ap = new APlayer({
