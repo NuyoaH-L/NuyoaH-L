@@ -1,5 +1,6 @@
 <div align=center>
   <img src="https://unsplash.it/1600/900?random" width="100%" height="25%"/>
+  ![Visitor Count](https://profile-counter.glitch.me/sqlsec/count.svg)
 </div>
 <hr/>
 
