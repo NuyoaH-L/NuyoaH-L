@@ -15,3 +15,5 @@ detail_image: https://unsplash.it/1600/900?random
 
 - [NuyoaH-L的博客](https://blog.nuyoah-l.ga/)
 
+
+- [MYang的星愉小店](https://m.tb.cn/h.UiEWnU9)
