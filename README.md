@@ -6,11 +6,11 @@
 
 <h2>关于我：</h2>
 
-- 我的身份：一个<img src="https://img.shields.io/badge/-卑微-black">的高中生
+- 我的身份：一个<img src="https://img.shields.io/badge/-卑微-black">的高中生（现在毕业了）
 
 <br/>
 
-- 学习的编程语言 : 
+- 尝试学习的编程语言 : 
 <img src="https://img.shields.io/badge/-JavaScript-orange"> , <img src="https://img.shields.io/badge/-CSS3-blue"> , <img src="https://img.shields.io/badge/-C/C++-red"> , <img src="https://img.shields.io/badge/-HTML5-green"> , <img src="https://img.shields.io/badge/-JSON-black"> , 以及 <img src="https://img.shields.io/badge/-Python3-yellow">
 <br>
 <h2>统计：</h2>
