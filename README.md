@@ -6,7 +6,7 @@
 
 <h2>关于我：</h2>
 
-- 我的身份：一个<img src="https://img.shields.io/badge/-卑微-black">的高中生（现在毕业了）
+- 我的身份：一个<img src="https://img.shields.io/badge/-卑微-black">的大学生
 
 <br/>
 
