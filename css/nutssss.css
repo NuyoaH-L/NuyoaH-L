@@ -44,7 +44,8 @@ body {
 .headPhoto {
     width: 8rem;
     height: 8rem;
-    background: url(https://q1.qlogo.cn/g?b=qq&nk=1656071287&s=640) no-repeat;
+    /*background: url(https://q1.qlogo.cn/g?b=qq&nk=1656071287&s=640) no-repeat;*/
+    background: url(https://avatars.githubusercontent.com/u/78532445?v=4) no-repeat;
     background-size: cover;
     border-radius: 50%;
     position: relative;
@@ -167,7 +168,6 @@ body {
     width: 710px;
     height: 550px;
     float: right;
-    /* background-color: green; */
 }
 
 .cmd {
@@ -204,7 +204,6 @@ body {
     display: inline-block;
     width: 70%;
     text-align: center;
-    /* background-color: red; */
 }
 
 .cmd .click {
@@ -282,7 +281,6 @@ body {
     position: fixed;
     bottom: 0;
     margin-bottom: 30px;
-    /* background-color: blue; */
 }
 
 #footer a {
