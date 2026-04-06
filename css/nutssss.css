@@ -9,14 +9,13 @@ html, body {
 }
 
 body {
-    background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(../img/bg.jpg);
+    background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(https://app.zichen.zone/api/acg/api.php);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
 
 #box {
-    /* background-color: red; */
     width: 1200px;
     height: 100px;
     margin: 0 auto;
