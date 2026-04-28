@@ -1,0 +1,24 @@
+title: "NuyoaH-L"
+tagline: "NuyoaH-L"
+description: "活着努力干，死了无遗憾！"
+github_username: NuyoaH-L
+baseurl: "/"
+url: "https://www.nuyoah-l.ml"
+
+plugins:
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+sass:
+  style: compressed
+
+highlighter: rouge
+
+header_pages:
+  - index.md
+  - statistics.md
+  - more.md
+
+# set the size of the text to 'large' or 'small', default is small
+font-size: small
