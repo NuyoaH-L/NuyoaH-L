@@ -5,14 +5,14 @@ permalink_name: 站点统计
 title: 站点统计
 detail_image: https://api.yimian.xyz/img?type=wallpaper
 ---
-<script src='https://cdn.jsdelivr.net/npm/busuanzi@2.3.0' async="async"></script>
+<script src="https://cdnjs.webstatic.cn/ajax/libs/busuanzi/2.3.0/bsz.pure.mini.min.js" integrity="sha512-G2PbtRp8Sjlvy8e+LxaLxtcpLfMtZTCgnpyHwc17gbFoMrhxdcFmUmuAmv9KWNTVaYOqXq6pPqCebgxcMYnCEw==" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css">
 <body>
   <center>
   <div>
-    <i class="fa fa-rss" style="color:#ffffff;"></i> <span id="busuanzi_value_site_pv"> <i class="fa-li fa fa-spinner fa-spin"></i></span> <code>次访问</code>
+    <i class="fa fa-rss" style="color:#ffffff;"></i> <span id="busuanzi_site_pv"> <i class="fa-li fa fa-spinner fa-spin"></i></span> <code>次访问</code>
     <br>
-    <i class="fa fa-group" style="color:#ffffff;"></i> <span id="busuanzi_value_site_uv"> <i class="fa-li fa fa-spinner fa-spin"></i></span> <code>位访客</code>
+    <i class="fa fa-group" style="color:#ffffff;"></i> <span id="busuanzi_site_uv"> <i class="fa-li fa fa-spinner fa-spin"></i></span> <code>位访客</code>
   </div>
   </center>
   <center>
