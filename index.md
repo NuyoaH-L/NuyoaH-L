@@ -9,9 +9,20 @@ detail_image: https://unsplash.it/1600/900?random
  <div id="hitokoto"><script>hitokoto()</script></div>
 </center>
 <hr>
-<center>
-  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1860855789&auto=1&height=66"></iframe>
-</center>
+<link rel="stylesheet" href="https://cdnjs.webstatic.cn/ajax/libs/aplayer/1.10.1/APlayer.min.css">
+<div id="aplayer"></div>
+<script src="https://cdnjs.webstatic.cn/ajax/libs/aplayer/1.10.1/APlayer.min.js"></script>
+<script>
+    const ap = new APlayer({
+        container: document.getElementById('aplayer'),
+        audio: [{
+            name: 'name',
+            artist: 'artist',
+            url: 'url.mp3',
+            cover: 'cover.jpg'
+        }]
+    });
+</script>
 
 - [NuyoaH-L的博客](https://nuyoah-l.github.io/)
 
