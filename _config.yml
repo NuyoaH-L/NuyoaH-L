@@ -1,3 +1,6 @@
+# 文件编码设置
+encoding: utf-8
+
 title: "NuyoaH-L"
 tagline: "NuyoaH-L"
 description: "活着努力干，死了无遗憾！"
@@ -22,6 +25,3 @@ header_pages:
 
 # set the size of the text to 'large' or 'small', default is small
 font-size: small
-
-# 文件编码设置
-encoding: utf-8
