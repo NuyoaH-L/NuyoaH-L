@@ -19,7 +19,8 @@ detail_image: https://unsplash.it/1600/900?random
             name: '柳叶笺',
             artist: '朱彦安/张诗莉',
             url: 'https://music.163.com/song/media/outer/url?id=553795744.mp3',
-            cover: 'https://p1.music.126.net/BfUADafLXpKYAubWpWZJZw==/109951163253095310.jpg'
+            cover: 'https://p1.music.126.net/BfUADafLXpKYAubWpWZJZw==/109951163253095310.jpg',
+            lrc:'/asserts/song.lrc'
         }]
     });
 </script>
