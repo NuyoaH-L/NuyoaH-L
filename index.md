@@ -19,14 +19,13 @@ detail_image: https://unsplash.it/1600/900?random
       name: '柳叶笺',
       artist: '朱彦安 / 张诗莉',
       url: 'https://music.163.com/song/media/outer/url?id=553795744.mp3',
-      cover: 'https://p1.music.126.net/BfUADafLXpKYAubWpWZJZw==/109951163253095310.jpg',
-      lrc: 'https://onlyrxn.pages.dev/assets/song.lrc'
+      cover: 'https://p1.music.126.net/BfUADafLXpKYAubWpWZJZw==/109951163253095310.jpg'
     }]
   });
 </script>
 
 
-- [NuyoaH-L的博客](https://nuyoah-l.github.io/)
+- [NuyoaH-L的学习笔记](https://nuyoah-l.github.io/)
 
 
 <!-- - [MYang的星愉小店](https://m.tb.cn/h.UiEWnU9) -->
