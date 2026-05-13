@@ -1,12 +1,12 @@
 # 文件编码设置
 encoding: utf-8
 
-title: "NuyoaH-L"
-tagline: "NuyoaH-L"
+title: "夏河桥逆游的鱼"
+tagline: "OnlyRxn"
 description: "活着努力干，死了无遗憾！"
 github_username: NuyoaH-L
 baseurl: "/"
-url: "https://www.nuyoah-l.ml"
+url: "https://nuyoah-l.root.sx"
 
 plugins:
   - jemoji
