@@ -5,7 +5,7 @@ permalink_name: 站点统计
 title: 站点统计
 detail_image: https://unsplash.it/1600/900?random
 ---
-<script src="https://cdnjs.webstatic.cn/ajax/libs/busuanzi/2.3.0/bsz.pure.mini.min.js" integrity="sha512-G2PbtRp8Sjlvy8e+LxaLxtcpLfMtZTCgnpyHwc17gbFoMrhxdcFmUmuAmv9KWNTVaYOqXq6pPqCebgxcMYnCEw==" crossorigin="anonymous"></script>
+<script src="//cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js" defer></script>
 <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css">
 <body>
   <center>
