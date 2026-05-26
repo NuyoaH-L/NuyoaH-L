@@ -6,7 +6,7 @@ title: 夏河桥逆游的鱼
 detail_image: https://unsplash.it/1600/900?random
 ---
 <center>
- <div id="hitokoto"><script>hitokoto()</script></div>
+ <div id="hitokoto"></div>
 </center>
 <hr>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
