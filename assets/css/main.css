@@ -66,6 +66,60 @@ div.error_box h1 { font-size: 2em; }
 
 *::selection { background-color: var(--light-alt-color); color: black; }
 
+/* APlayer/Meting 播放器样式修复 */
+.aplayer,
+.aplayer .aplayer-info,
+.aplayer .aplayer-list {
+  background-color: var(--bg-color) !important;
+  color: var(--main-color) !important;
+  border: none !important;
+}
+.aplayer .aplayer-title,
+.aplayer .aplayer-title a {
+  color: var(--pop-color) !important;
+  text-decoration: none !important;
+}
+.aplayer .aplayer-author {
+  color: var(--text-color) !important;
+}
+.aplayer .aplayer-pic {
+  background-color: var(--bg-color) !important;
+}
+.aplayer .aplayer-pic img {
+  filter: brightness(0.9);
+}
+.aplayer .aplayer-list-item {
+  color: var(--text-color) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+.aplayer .aplayer-list-item:hover,
+.aplayer .aplayer-list-item.aplayer-list-current {
+  background-color: rgba(255, 255, 255, 0.1) !important;
+  color: var(--pop-color) !important;
+}
+.aplayer .aplayer-lrc {
+  color: var(--text-color) !important;
+}
+.aplayer .aplayer-lrc .aplayer-lrc-current {
+  color: var(--alt-color) !important;
+}
+.aplayer .aplayer-bar {
+  border-color: var(--alt-color) !important;
+}
+.aplayer .aplayer-played .aplayer-bar {
+  background-color: var(--alt-color) !important;
+}
+.aplayer .aplayer-control {
+  color: var(--main-color) !important;
+}
+.aplayer .aplayer-control:hover {
+  color: var(--alt-color) !important;
+}
+.aplayer-title a:hover {
+  color: var(--alt-color) !important;
+  background-color: transparent !important;
+}
+
 
 .link-chip {
   display: inline-block;
