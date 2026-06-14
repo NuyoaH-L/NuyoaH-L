@@ -5,7 +5,7 @@
 <hr>
 <h2>关于我：</h2>
 
-我的身份：一个<img src="https://img.shields.io/badge/-卑微-black">的大学生
+我的身份：一个<img src="https://img.shields.io/badge/-平凡-black">的学生
 
 生产力：<img src="https://img.shields.io/badge/-AMD Ryzen 7 5700X-red">  <img src="https://img.shields.io/badge/-AMD Radeon RX 6750GRE 10G-blue">  <img src="https://img.shields.io/badge/-G.SKILL DDR4 16GX2-grey">  <img src="https://img.shields.io/badge/MOONDROP BLOCK-brown">
 <!--
